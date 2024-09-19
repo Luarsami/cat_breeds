@@ -123,7 +123,7 @@ Para ejecutar este proyecto en tu entorno local, sigue los pasos a continuación
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/cat-breeds.git
+   git clone https://github.com/Luarsami/cat-breeds.git
    ```
 
 2. Navega al directorio del proyecto:
